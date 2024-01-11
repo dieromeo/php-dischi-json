@@ -1,0 +1,11 @@
+[v-cloak] {
+    display: none;
+}
+
+.card {
+    height: 100%;
+}
+
+.card button {
+    bottom: 15px;
+}
