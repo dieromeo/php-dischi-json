@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Toxicity",
+        "author": "System of a down",
+        "image": {
+            "path": ".\/src\/img\/toxicity.webp",
+            "alt": "Toxicity"
+        }
+    },
+    {
+        "title": "Collide with the sky",
+        "author": "Pierce the veil",
+        "image": {
+            "path": ".\/src\/img\/CollideWithTheSky.jpg",
+            "alt": "Collide with the sky"
+        }
+    },
+    {
+        "title": "The Drug in Me Is You",
+        "author": "Falling in Reverse",
+        "image": {
+            "path": ".\/src\/img\/The_Drug_in_Me_Is_You.jpg",
+            "alt": "The Drug in Me Is You"
+        }
+    },
+    {
+        "title": "So Wrong, It's Right",
+        "author": "All Time Low",
+        "image": {
+            "path": ".\/src\/img\/So_wrong_its_right.jpg",
+            "alt": "So Wrong, It's Righty"
+        }
+    },
+    {
+        "title": "From Under the Cork Tree",
+        "author": "Fall Out Boy",
+        "image": {
+            "path": ".\/src\/img\/From_under_the_cork_tree.jpg",
+            "alt": "From Under the Cork Tree"
+        }
+    },
+    {
+        "title": "Three Cheers for Sweet Revenge",
+        "author": "My Chemical Romance",
+        "image": {
+            "path": ".\/src\/img\/Three_cheers_for_sweet_revenge.jpg",
+            "alt": "Three Cheers for Sweet Revenge"
+        }
+    }
+]
