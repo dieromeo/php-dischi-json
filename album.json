@@ -2,6 +2,8 @@
     {
         "title": "Toxicity",
         "author": "System of a down",
+        "data": "4 settembre 2001",
+        "genres": "Heavy metal",
         "image": {
             "path": ".\/src\/img\/toxicity.webp",
             "alt": "Toxicity"
@@ -10,6 +12,8 @@
     {
         "title": "Collide with the sky",
         "author": "Pierce the veil",
+        "data": "17 luglio 2012",
+        "genres": "Post-hardcore",
         "image": {
             "path": ".\/src\/img\/CollideWithTheSky.jpg",
             "alt": "Collide with the sky"
@@ -18,6 +22,8 @@
     {
         "title": "The Drug in Me Is You",
         "author": "Falling in Reverse",
+        "data": "25 luglio 2011",
+        "genres": "Metalcore",
         "image": {
             "path": ".\/src\/img\/The_Drug_in_Me_Is_You.jpg",
             "alt": "The Drug in Me Is You"
@@ -26,6 +32,8 @@
     {
         "title": "So Wrong, It's Right",
         "author": "All Time Low",
+        "data": "25 settembre 2007",
+        "genres": "Punk rock",
         "image": {
             "path": ".\/src\/img\/So_wrong_its_right.jpg",
             "alt": "So Wrong, It's Righty"
@@ -34,6 +42,8 @@
     {
         "title": "From Under the Cork Tree",
         "author": "Fall Out Boy",
+        "data": "3 maggio 2005",
+        "genres": "Rock",
         "image": {
             "path": ".\/src\/img\/From_under_the_cork_tree.jpg",
             "alt": "From Under the Cork Tree"
@@ -42,6 +52,8 @@
     {
         "title": "Three Cheers for Sweet Revenge",
         "author": "My Chemical Romance",
+        "data": "8 giugno 2004",
+        "genres": "Punk rock",
         "image": {
             "path": ".\/src\/img\/Three_cheers_for_sweet_revenge.jpg",
             "alt": "Three Cheers for Sweet Revenge"
