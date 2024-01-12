@@ -7,6 +7,40 @@
         "image": {
             "path": ".\/src\/img\/toxicity.webp",
             "alt": "Toxicity"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "Prison Song",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Needles",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "Deer dance",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "Jet Pilot",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "X",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "Chop Suey",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "Bounce",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "Forest",
+                "link": ""
+            }
         }
     },
     {
@@ -17,6 +51,56 @@
         "image": {
             "path": ".\/src\/img\/CollideWithTheSky.jpg",
             "alt": "Collide with the sky"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "May These Noises Startle You in Your Sleep Tonight",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Hell Above",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "A Match into Water",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "King for a Day",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "Bulls in the Bronx",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "Props & Mayhem",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "Tangled in the Great Escape",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "I'm Low on Gas and You Need a Jacket ",
+                "link": ""
+            },
+            "9": {
+                "songTitle": "The First Punch",
+                "link": ""
+            },
+            "10": {
+                "songTitle": "One Hundred Sleepless Nights",
+                "link": ""
+            },
+            "11": {
+                "songTitle": "Stained Glass Eyes and Colorful Tears",
+                "link": ""
+            },
+            "12": {
+                "songTitle": "Hold on Till May",
+                "link": ""
+            }
         }
     },
     {
@@ -27,6 +111,52 @@
         "image": {
             "path": ".\/src\/img\/The_Drug_in_Me_Is_You.jpg",
             "alt": "The Drug in Me Is You"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "Raised by Wolves",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Tragic Magic",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "The Drug in Me Is You",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "'m Not a Vampire",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "Good Girls, Bad Guys",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "Pick Up the Phone",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "Don't Mess with Ouija Boards",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "Sink or Swim",
+                "link": ""
+            },
+            "9": {
+                "songTitle": "Caught Like a Fly",
+                "link": ""
+            },
+            "10": {
+                "songTitle": "Goodbye Graceful",
+                "link": ""
+            },
+            "11": {
+                "songTitle": "The Westerner",
+                "link": ""
+            }
         }
     },
     {
@@ -37,6 +167,56 @@
         "image": {
             "path": ".\/src\/img\/So_wrong_its_right.jpg",
             "alt": "So Wrong, It's Righty"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "This Is How We Do",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Let It Roll",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "Six Feets Under the Stars",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "Holly (Would You Turn Me On)",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "The Beach",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "Dear Maria, Count Me In",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "Shameless",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "Remembering Sunday",
+                "link": ""
+            },
+            "9": {
+                "songTitle": "Vegas",
+                "link": ""
+            },
+            "10": {
+                "songTitle": "Stay Awake (Dreams Only Last for a Night)",
+                "link": ""
+            },
+            "11": {
+                "songTitle": "Come One, Come All",
+                "link": ""
+            },
+            "12": {
+                "songTitle": "Poppin' Champagne",
+                "link": ""
+            }
         }
     },
     {
@@ -47,6 +227,60 @@
         "image": {
             "path": ".\/src\/img\/From_under_the_cork_tree.jpg",
             "alt": "From Under the Cork Tree"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "Our Lawyer Made Us Change the Name of This Song So We Wouldn't Get Sued",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Of All the Gin Joints in All the World",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "Dance, Dance",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "Sugar, We're Goin Down",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "Nobody Puts Baby in the Corner",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "I've Got a Dark Alley and a Bad Idea That Says You Should Shut Your Mouth (Summer Song)",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "7 Minutes in Heaven (Atavan Halen)",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "Sophomore Slump or Comeback of the Year",
+                "link": ""
+            },
+            "9": {
+                "songTitle": "Champagne for My Real Friends, Real Pain for My Sham Friends",
+                "link": ""
+            },
+            "10": {
+                "songTitle": "Champagne for My Real Friends, Real Pain for My Sham Friends",
+                "link": ""
+            },
+            "11": {
+                "songTitle": "Champagne for My Real Friends, Real Pain for My Sham Friends ",
+                "link": ""
+            },
+            "12": {
+                "songTitle": "Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene and Stop Going to Shows)",
+                "link": ""
+            },
+            "13": {
+                "songTitle": "XO",
+                "link": ""
+            }
         }
     },
     {
@@ -57,6 +291,60 @@
         "image": {
             "path": ".\/src\/img\/Three_cheers_for_sweet_revenge.jpg",
             "alt": "Three Cheers for Sweet Revenge"
+        },
+        "brani": {
+            "1": {
+                "songTitle": "Helena",
+                "link": ""
+            },
+            "2": {
+                "songTitle": "Give 'Em Hell, Kid",
+                "link": ""
+            },
+            "3": {
+                "songTitle": "To the End",
+                "link": ""
+            },
+            "4": {
+                "songTitle": "You Know What They Do to Guys Like Us in Prison",
+                "link": ""
+            },
+            "5": {
+                "songTitle": "I'm Not Okay (I Promise)",
+                "link": ""
+            },
+            "6": {
+                "songTitle": "The Ghost of You",
+                "link": ""
+            },
+            "7": {
+                "songTitle": "The Jetset Life Is Gonna Kill You",
+                "link": ""
+            },
+            "8": {
+                "songTitle": "Interlude",
+                "link": ""
+            },
+            "9": {
+                "songTitle": "Thank You for the Venom",
+                "link": ""
+            },
+            "10": {
+                "songTitle": "Hang 'Em High",
+                "link": ""
+            },
+            "11": {
+                "songTitle": "It's Not a Fashion Statement, It's a Fucking Deathwish",
+                "link": ""
+            },
+            "12": {
+                "songTitle": "Cemetery Drive",
+                "link": ""
+            },
+            "13": {
+                "songTitle": "I Never Told You What I Do for a Living",
+                "link": ""
+            }
         }
     }
 ]

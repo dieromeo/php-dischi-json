@@ -19,27 +19,41 @@
             <h2 class="text-center text-light">Albums</h2>
         </header>
         <!-- /header -->
-        <main class="bg-dark d-flex">
+        <main class="bg-dark">
             <!-- info extra -->
-            <div class="extra-info bg-secondary py-5 px-4" v-if="discoCorrente != null">
-                <h4>{{ discoCorrente.data}}</h4>
-                <h4>{{discoCorrente.genres}}</h4>
+            <div class="extra-info bg-black text-light py-5 px-4" v-if="discoCorrente != null">
+                <!-- data -->
+                <h4>Data di publicazione:</h4>
+                <span>{{ discoCorrente.data}}</span>
+                <hr>
+                <!-- genere -->
+                <h4 class="mt-4">Genere:</h4>
+                <span>{{discoCorrente.genres}}</span>
+                <ul class="list-group mt-5">
+                    <li class="text-center list-group-item">
+                        <h5>Brani</h5>
+                    </li>
+                    <a v-for="brano in discoCorrente.brani" :href="brano.link"
+                        class="list-group-item list-group-item-action py-3">{{brano.songTitle}}</a>
+                </ul>
             </div>
             <!-- /info extra -->
-            <div class="container py-5">
-                <div class="row gy-5">
-                    <!-- cards -->
-                    <div class="col-4 d-flex justify-content-center" v-for="(album,index) in dischi">
-                        <div class="card bg-info-subtle" style="width: 18rem;">
-                            <!-- immagine album -->
-                            <img :src="album.image.path" class="card-img-top" :alt="album.image.alt">
-                            <div class="card-body text-center position-relative">
-                                <!-- titolo -->
-                                <h4 class="card-title">{{album.title}}</h4>
-                                <!-- artista -->
-                                <h5 class="card-title mb-5">{{album.author}}</h5>
-                                <button class="btn btn-dark position-absolute start-50 translate-middle-x"
-                                    @click="showMore(index)">More</button>
+            <div class="right">
+                <div class="container py-5">
+                    <div class="row gy-5">
+                        <!-- cards -->
+                        <div class="col-4 d-flex justify-content-center" v-for="(album,index) in dischi">
+                            <div class="card bg-info-subtle" style="width: 18rem;">
+                                <!-- immagine album -->
+                                <img :src="album.image.path" class="card-img-top" :alt="album.image.alt">
+                                <div class="card-body text-center position-relative">
+                                    <!-- titolo -->
+                                    <h4 class="card-title">{{album.title}}</h4>
+                                    <!-- artista -->
+                                    <h5 class="card-title mb-5">{{album.author}}</h5>
+                                    <button class="btn btn-dark position-absolute start-50 translate-middle-x"
+                                        @click="showMore(index)">More</button>
+                                </div>
                             </div>
                         </div>
                     </div>
